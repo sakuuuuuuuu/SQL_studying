@@ -9,7 +9,7 @@
     - 学習した内容はSQL含め、markdownで記述してGithubで共有する
 
 - markdown に慣れる
-
+kkv
 - VScodeに慣れる
 
 

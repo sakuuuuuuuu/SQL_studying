@@ -1,1 +1,2 @@
--  コマンドパレット Ctrl + Shift + P
+-  コマンドパレット Cｍｄ + Shift + P
+v
